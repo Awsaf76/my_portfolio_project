@@ -26,13 +26,13 @@ const Education = () => {
     <Container>
       <Title>Education</Title>
       <Paragraph>
-        I am currently pursuing a <strong>Master of Business Administration (MBA)</strong> at <strong>North South University (NSU)</strong>, which I began in <strong>September 2026</strong>.
+        My academic journey began at <strong>Nasirabad Government Boys' High School</strong>, where I completed my Secondary School Certificate (SSC). I then continued my studies at <strong>Chittagong Government Model School and College</strong>, where I completed my Higher Secondary Certificate (HSC).
       </Paragraph>
       <Paragraph>
         I completed my Bachelor of Science in <strong>Computer Science and Engineering</strong>, majoring in <strong>Software Engineering</strong>, at the <strong>American International University-Bangladesh (AIUB)</strong> from <strong>2020 to 2024</strong>.
       </Paragraph>
       <Paragraph>
-        My academic journey began at <strong>Nasirabad Government Boys' High School</strong>, where I completed my Secondary School Certificate (SSC). I then continued my studies at <strong>Chittagong Government Model School and College</strong> for my Higher Secondary Certificate (HSC).
+        I am currently pursuing a <strong>Master of Business Administration (MBA)</strong> at <strong>North South University (NSU)</strong>.
       </Paragraph>
     </Container>
   );
